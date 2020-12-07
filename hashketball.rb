@@ -1,4 +1,4 @@
-require binding.pry
+require 'pry'
 
 
 def game_hash
