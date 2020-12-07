@@ -10,7 +10,7 @@ def game_hash
       
       players: [
         
-        :player_name => { }, 
+        :player_name => {"Alan Anderson", "Reggie Evans", "Brook Lopez", "Mason Plumlee", "Jason Terry"}, 
         :number => { }, 
         :shoe => { }, 
         :points => { }, 
